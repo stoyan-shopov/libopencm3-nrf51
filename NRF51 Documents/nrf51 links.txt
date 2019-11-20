@@ -1,0 +1,2 @@
+NRF51 device compatibility matrix:
+https://infocenter.nordicsemi.com/topic/comp_matrix_nrf51/COMP/nrf51/nrf51_comp_matrix.html
