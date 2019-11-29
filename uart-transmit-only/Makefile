@@ -1,4 +1,4 @@
-PROJECT = uart
+PROJECT = uart-transmit-only
 BUILD_DIR = bin
 
 CFILES = main.c
